@@ -4,6 +4,9 @@ Retrofit
 
 **_MVVM, Retrofit, Dagger2 kullanılarak Android Uygulama Geliştirme, Bölüm 2(Retrofit)_**
 
+Blog yazısı için aşağıdaki linke tıklayabilirsiniz.
+
+
 [https://medium.com/@ecemokan/mvvm-retrofit-dagger2-kullan%C4%B1larak-android-uygulama-geli%C5%9Ftirme-b%C3%B6l%C3%BCm-2-retrofit-8b0cfb94db03](url)
 
 <br>
